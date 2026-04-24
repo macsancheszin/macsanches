@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Gabriel%20Gonçalves&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Systems%20Analysis%20and%20Development%20Student%20%7C%20Building%20Automation%20Technician&descAlignY=60&descAlign=50&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Marco%20Sanches&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Systems%20Analysis%20and%20Development%20Student%20%7C%20Building%20Automation%20Technician&descAlignY=60&descAlign=50&descColor=ffffff" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Systems+Analysis+and+Development+Student;Building+Automation+Technician;C%2B%2B+%7C+Java+%7C+Python;Tech+Enthusiast+%7C+Innovation" alt="Typing SVG" />
@@ -8,10 +8,10 @@
   <br/>
 
   <p>
-    <a href="https://linkedin.com/in/gabrielgoncalves06/" target="_blank">
+    <a href="[https://linkedin.com/in/gabrielgoncalves06/" target="_blank](https://www.linkedin.com/in/marco-sanches-64388229a?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
       <img src="https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:gabrielgoncalves060306@gmail.com">
+    <a href="mailto:macsanches.marco@gmail.com">
       <img src="https://img.shields.io/badge/-Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
