@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Marco%20Sanches&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Systems%20Analysis%20and%20Development%20Student%20%7C%20Building%20Automation%20Technician&descAlignY=60&descAlign=50&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Marco%20Sanches&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Systems%20Analysis%20and%20Development%20Student%20%7C%20Eletronics%20Technician&descAlignY=60&descAlign=50&descColor=ffffff" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Systems+Analysis+and+Development+Student;Building+Automation+Technician;C%2B%2B+%7C+Java+%7C+Python;Tech+Enthusiast+%7C+Innovation" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 
 ## 📌Perfil Profissional
 
-Olá! Sou Gabriel, Técnico em Automação Predial com forte base técnica, participou na melhoria de sistemas prediais atomatizados.
+Técnico em Eletrônica com forte base técnica e prática.
 
 💼 Atuação: Técnico em Automação Predial focado em entrega de valor e soluções eficientes no mercado.
 
